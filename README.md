@@ -11,3 +11,6 @@ so this is built pretty much just with standard libraries
 ## nice try windows users :slightly_smiling_face:	
 
 use linux instead if you don't want errors lol :)
+
+### gg.
+im gonna look back on this in a years time and think "why am i so fucking stupid"
